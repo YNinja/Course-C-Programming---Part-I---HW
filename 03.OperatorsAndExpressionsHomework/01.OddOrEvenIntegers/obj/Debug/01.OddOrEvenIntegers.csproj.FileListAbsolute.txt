@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb

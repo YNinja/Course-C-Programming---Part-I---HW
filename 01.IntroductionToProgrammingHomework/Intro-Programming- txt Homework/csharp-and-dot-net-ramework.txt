@@ -1,0 +1,14 @@
+Problem 13. C# and .NET Differences
+
+Describe the difference between C# and .NET Framework in 2-3 sentences.
+Write your description in a text file called “csharp-and-dot-net-framework.txt”. 
+Use English.
+
+
+
+
+C# is a programming language, .NET is the application framework that the 
+language is mostly built on. In .NET a user can find more than 20 programming 
+languagesas supported /Visual Basic for example/. As framework .NET contains 
+different applications as well - Console Application, Windows Application, 
+Web Application, etc.

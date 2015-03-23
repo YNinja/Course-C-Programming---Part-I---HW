@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication9\obj\Debug\11.BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\11.BankAccountData\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\11.BankAccountData\obj\Debug\ConsoleApplication9.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\11.BankAccountData\obj\Debug\ConsoleApplication9.pdb

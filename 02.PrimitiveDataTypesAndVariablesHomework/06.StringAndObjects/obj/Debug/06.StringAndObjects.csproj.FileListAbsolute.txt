@@ -1,0 +1,12 @@
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication4\obj\Debug\06.StringAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\06.StringAndObjects\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\06.StringAndObjects\obj\Debug\ConsoleApplication4.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\06.StringAndObjects\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\02.PrimitiveDataTypesAndVariablesHomework\PrimitiveDataTypes\06.StringAndObjects\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\02.PrimitiveDataTypesAndVariablesHomework\PrimitiveDataTypes\06.StringAndObjects\obj\Debug\ConsoleApplication4.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\02.PrimitiveDataTypesAndVariablesHomework\PrimitiveDataTypes\06.StringAndObjects\obj\Debug\ConsoleApplication4.pdb

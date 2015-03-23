@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\SquareRootOf12345\bin\Debug\SquareRootOf12345.exe.config
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\SquareRootOf12345\bin\Debug\SquareRootOf12345.exe
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\SquareRootOf12345\bin\Debug\SquareRootOf12345.pdb
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\SquareRootOf12345\obj\Debug\SquareRootOf12345.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\SquareRootOf12345\obj\Debug\SquareRootOf12345.exe
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\SquareRootOf12345\obj\Debug\SquareRootOf12345.pdb

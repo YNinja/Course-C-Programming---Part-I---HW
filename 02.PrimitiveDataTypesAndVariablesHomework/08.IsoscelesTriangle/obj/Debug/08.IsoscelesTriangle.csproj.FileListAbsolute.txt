@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication6\obj\Debug\08.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\08.IsoscelesTriangle\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\08.IsoscelesTriangle\obj\Debug\ConsoleApplication6.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\08.IsoscelesTriangle\obj\Debug\ConsoleApplication6.pdb

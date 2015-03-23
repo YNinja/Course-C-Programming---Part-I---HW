@@ -1,0 +1,39 @@
+Problem 12. Development Environments
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with 
+popular development environments (IDEs) like Visual Studio.
+
+Write in a text file called “list-of-IDEs.txt” at least five IDEs along 
+with 2-3 sentences about each of them. Use English.
+
+
+Here comes some popular IDEs.
+
+Visual Studio
+
+Is a rich Development Environment. Comes with Intellisense /suggestion box
+when typing/, automatic code formatting, extensibility. It complies the code 
+and have a nice userfriendly interface.
+
+Eclipse
+
+Is the next best thing. Offers language extensibility. Comes for free and compies
+code too.
+
+Netbeans
+
+It's extensible Development Environment that complies code. Comes for free, but 
+slows down the computer.
+
+kate
+
+Is actually a text editor. Not to be looked down upon as it does a lot more than 
+a regular text edit. The program uses Linux. Offers code folding wich is great 
+advantage at some point. But kate aslo requires a lot of free space and does not 
+compile code.
+
+gedit
+
+Gedit is te official editor of the gnome desktop. A usefull tool if you want to
+casually edit code in small projects. The program uses Linux. Offers code 
+highlighting and tabbed function. Does't compile code.

@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.pdb

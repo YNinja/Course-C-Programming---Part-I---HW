@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\13.BinaryToDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.pdb

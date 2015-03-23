@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

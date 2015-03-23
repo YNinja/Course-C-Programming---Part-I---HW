@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\02.BonusScore\obj\Debug\02.BonusScore.pdb

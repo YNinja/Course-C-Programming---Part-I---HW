@@ -1,0 +1,39 @@
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list 
+with information about the most popular programming languages. How similar 
+are they to C#? How do they differ from C#?
+
+Write in a text file called “programming-languages.txt” at least five 
+languages along with 2-3 sentences about each of them. Use English.
+
+
+
+The next list shows the most popular languages today based on combined results
+from different data sets.
+
+1.C
+2.Java
+3.PHP
+4.JavaScript
+5.C++
+6.Python
+7.Shell
+
+C# language was released in 2001 by Microsoft as the new "C - like" object-oriented 
+language. At least that was the idea. In time the languages have proven to have little
+in common. One thing that kept the line of Microsoft products thoug was the "#" in the
+name.
+
+C# is a powerful cutting edge language wich allows full object-oriented code to be build
+while C is a relatively small language and does not offer object-oriented programming.
+Even though C# code shares the C/C++ style it is really closer to JAVA.
+
+C# and JAVA both use garbage-collection and are designed with semi-interpretation or
+runtime compilation in ming.
+
+PHP as a server side scripting language is great if you want to creat dynamic pages. C#
+is multi functional and can be used not only for building Windows programs but complex
+web sites as well. So it all depends on the project specification.
+
+JavaScript has a lot lesss parts than C#. In C# the functions have to be attached to a 
+class. In JavaScript they don't. And t all comes from the different language definition.

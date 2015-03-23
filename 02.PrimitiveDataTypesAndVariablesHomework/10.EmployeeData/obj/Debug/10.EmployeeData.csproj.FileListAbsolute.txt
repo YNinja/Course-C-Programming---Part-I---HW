@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication8\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\10.EmployeeData\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\10.EmployeeData\obj\Debug\ConsoleApplication8.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\10.EmployeeData\obj\Debug\ConsoleApplication8.pdb

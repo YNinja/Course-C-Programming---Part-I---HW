@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

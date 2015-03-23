@@ -1,0 +1,8 @@
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

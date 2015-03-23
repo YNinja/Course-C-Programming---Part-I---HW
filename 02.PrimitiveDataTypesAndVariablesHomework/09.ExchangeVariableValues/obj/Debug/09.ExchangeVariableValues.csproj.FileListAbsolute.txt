@@ -1,0 +1,9 @@
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\ConsoleApplication1\ConsoleApplication7\obj\Debug\09.ExchangeVariableValues.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\09.ExchangeVariableValues\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\09.ExchangeVariableValues\obj\Debug\ConsoleApplication7.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\PrimitiveDataTypesAndVariablesHomework\09.ExchangeVariableValues\obj\Debug\ConsoleApplication7.pdb

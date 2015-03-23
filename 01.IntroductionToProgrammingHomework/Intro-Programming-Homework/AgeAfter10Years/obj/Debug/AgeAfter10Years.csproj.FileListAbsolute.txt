@@ -1,0 +1,8 @@
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Bobi\Desktop\Visual Studio Homework\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\Vavedenie V Programiraneto\Visual Studio Homework\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\Vavedenie V Programiraneto\Visual Studio Homework\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Bobi\Desktop\Telerik Academy Homework\Course C# Programming - Part I\Vavedenie V Programiraneto\Visual Studio Homework\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

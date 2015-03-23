@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.pdb

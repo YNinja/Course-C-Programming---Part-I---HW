@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.pdb

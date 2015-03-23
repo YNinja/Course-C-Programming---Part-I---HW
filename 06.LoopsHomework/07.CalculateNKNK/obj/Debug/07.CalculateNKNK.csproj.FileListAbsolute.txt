@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\07.CalculateNKNK\bin\Debug\07.CalculateNKNK.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\07.CalculateNKNK\bin\Debug\07.CalculateNKNK.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\07.CalculateNKNK\bin\Debug\07.CalculateNKNK.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\07.CalculateNKNK\obj\Debug\07.CalculateNKNK.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\07.CalculateNKNK\obj\Debug\07.CalculateNKNK.pdb

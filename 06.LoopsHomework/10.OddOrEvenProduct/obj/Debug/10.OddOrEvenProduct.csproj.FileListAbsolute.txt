@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\10.OddOrEvenProduct\bin\Debug\10.OddOrEvenProduct.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\10.OddOrEvenProduct\bin\Debug\10.OddOrEvenProduct.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\10.OddOrEvenProduct\bin\Debug\10.OddOrEvenProduct.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\10.OddOrEvenProduct\obj\Debug\10.OddOrEvenProduct.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\10.OddOrEvenProduct\obj\Debug\10.OddOrEvenProduct.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb

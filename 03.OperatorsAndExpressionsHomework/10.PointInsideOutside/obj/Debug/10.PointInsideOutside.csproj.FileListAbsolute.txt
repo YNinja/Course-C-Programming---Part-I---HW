@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\10.PointInsideOutside\bin\Debug\10.PointInsideOutside.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\10.PointInsideOutside\bin\Debug\10.PointInsideOutside.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\10.PointInsideOutside\bin\Debug\10.PointInsideOutside.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\10.PointInsideOutside\obj\Debug\10.PointInsideOutside.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\03.OperatorsAndExpressionsHomework\OperatorsAndExpressions\10.PointInsideOutside\obj\Debug\10.PointInsideOutside.pdb

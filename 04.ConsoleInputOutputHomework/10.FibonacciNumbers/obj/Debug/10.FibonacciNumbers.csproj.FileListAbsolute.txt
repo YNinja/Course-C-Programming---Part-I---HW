@@ -1,0 +1,5 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\04.ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

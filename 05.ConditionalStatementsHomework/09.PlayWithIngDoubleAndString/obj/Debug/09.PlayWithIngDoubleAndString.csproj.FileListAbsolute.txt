@@ -1,0 +1,6 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\09.PlayWithIngDoubleAndString\bin\Debug\09.PlayWithIngDoubleAndString.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\09.PlayWithIngDoubleAndString\bin\Debug\09.PlayWithIngDoubleAndString.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\09.PlayWithIngDoubleAndString\bin\Debug\09.PlayWithIngDoubleAndString.pdb
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\09.PlayWithIngDoubleAndString\obj\Debug\09.PlayWithIngDoubleAndString.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\09.PlayWithIngDoubleAndString\obj\Debug\09.PlayWithIngDoubleAndString.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\05.ConditionalStatementsHomework\09.PlayWithIngDoubleAndString\obj\Debug\09.PlayWithIngDoubleAndString.pdb

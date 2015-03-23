@@ -1,0 +1,3 @@
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe.config
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.exe
+C:\Users\Bobi\Desktop\Course C# Programming - Part I\06.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.pdb
